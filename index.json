@@ -7,7 +7,7 @@
       {"name": "Server"},
       {"name": "Client"}
     ]},
-    {"name": "Streaming"},
+    {"name": "Streams"},
     {"name": "File System"},
     {"name": "Command-line"},
     {"name": "TCP", "children": [
