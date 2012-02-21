@@ -6,12 +6,12 @@
     {"name": "Server"},
     {"name": "Client"}
   ]},
-  {"name": "Streaming"}
+  {"name": "Streaming"},
   {"name": "File System"},
   {"name": "Command-line"},
   {"name": "TCP", "children": [
     {"name": "Server"}
-  ]}
+  ]},
   {"name": "Processes"},
   {"name": "Security", "children": [
     {"name": "Cryptography"},
@@ -20,7 +20,6 @@
   ]},
   {"name": "JavaScript"},
   {"name": "REPL"},
-  {"name": "Modules and NPM"}
-  {"name": "Resources"},
-
+  {"name": "Modules and NPM"},
+  {"name": "Resources"}
 ]
