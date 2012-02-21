@@ -1,0 +1,26 @@
+"categories": [
+  {"name": "Intro"},
+  {"name": "Debugging"},
+  {"name": "Asynchronous Programming"},
+  {"name": "HTTP", "children": [
+    {"name": "Server"},
+    {"name": "Client"}
+  ]},
+  {"name": "Streaming"}
+  {"name": "File System"},
+  {"name": "Command-line"},
+  {"name": "TCP", "children": [
+    {"name": "Server"}
+  ]}
+  {"name": "Processes"},
+  {"name": "Security", "children": [
+    {"name": "Cryptography"},
+    {"name": "HTTPS"},
+    {"name": "TLS"}
+  ]},
+  {"name": "JavaScript"},
+  {"name": "REPL"},
+  {"name": "Modules and NPM"}
+  {"name": "Resources"},
+
+]
